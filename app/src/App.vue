@@ -1,16 +1,17 @@
 <template>
-    <div id="app">
-        <router-view/>
-    </div>
+  <div id="app">
+    <router-view />
+  </div>
 </template>
 
 <style lang="scss">
-    #app {
-        font-family: 'Open Sans', sans-serif;
-    }
+#app {
+  font-family: "Open Sans", sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+}
 
-    #nav a {
-        font-weight: bold;
-        color: #2C3E50;
-    }
+#nav a {
+  color: #2c3e50;
+}
 </style>
