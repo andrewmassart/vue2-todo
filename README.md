@@ -1,5 +1,7 @@
 # Vue + Typescript
 
+![Todo Mockup](./todo.png)
+
 ## Install
 
 - Clone this repo
